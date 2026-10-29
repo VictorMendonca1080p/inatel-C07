@@ -1,4 +1,4 @@
-# inatel-C07
+# Projeto do Lab de C07
 Grupo:
 Victor dos Anjos Mendonça /
 Layla Victória Sousa Teles
